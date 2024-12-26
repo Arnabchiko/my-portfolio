@@ -127,9 +127,7 @@ img {
 #P-phone{
     letter-spacing: 3px;
 }
-/* .email-me{
-    color: yellow!important;
-} */
+
 
 /* BTN */
 .btn {
@@ -180,17 +178,6 @@ img {
     margin-right: 5px;
     
 }
-/* .card-custom .card-custom-image {
-    overflow: hidden;
-}
-
-.card-custom .card-custom-image img {
-    transition: all 0.4s ease;
-}
-
-.card-custom:hover .card-custom-image img {
-    transform: scale(1.1);
-} */
 
 /* CONTACT */
 #contact .form-control {
@@ -212,10 +199,6 @@ img {
     height: 44px;
 }
 
-/* SOCIAL ICONS */
-/* .social-icons {
-
-} */
 
 .social-icons a {
     width: 40px;
