@@ -118,16 +118,6 @@ img {
     }
 }
 
-.text-brand {
-    color: var(--color-brand);
-}
-#E-email{
-    letter-spacing: 4px;
-}
-#P-phone{
-    letter-spacing: 3px;
-}
-
 
 /* BTN */
 .btn {
@@ -167,6 +157,17 @@ img {
     width: 100%;
 }
 
+/* contact */
+.text-brand {
+    color: var(--color-brand);
+}
+#E-email{
+    letter-spacing: 4px;
+}
+#P-phone{
+    letter-spacing: 3px;
+}
+
 /* card  */
 
 .card-custom-content h5 li {
@@ -177,26 +178,6 @@ img {
     color: #e0f780;
     margin-right: 5px;
     
-}
-
-/* CONTACT */
-#contact .form-control {
-    background-color: var(--color-base);
-    border-color: var(--color-base);
-    color: var(--color-body);
-}
-
-#contact .form-control:focus {
-    border-color: var(--color-brand);
-    box-shadow: none;
-}
-
-#contact .form-control::placeholder {
-    color: var(--color-body);
-}
-
-#contact input.form-control {
-    height: 44px;
 }
 
 
